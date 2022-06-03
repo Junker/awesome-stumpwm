@@ -38,7 +38,7 @@
 - [power](https://github.com/mmaul/power) - Power managment and suspend on laptop lid close
 - [stumpd](https://github.com/Payphone/Stumpd) - Module for interacting with MPD 
 - [cmus](https://github.com/jdfight/stumpwm-cmus) - Module for interfacing with the cmus music player
-- [nuclear](https://github.com/Junker/nuclear) - Nuclear music player module
+- [nuclear](https://github.com/Junker/stumpwm-nuclear) - Nuclear music player module
 
 ## Themes
 
