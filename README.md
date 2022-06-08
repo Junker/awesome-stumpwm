@@ -21,6 +21,7 @@
 ## Modules
 
 - [contrib](https://github.com/stumpwm/stumpwm-contrib) - A collection of StumpWM modules
+- [tslight/stumpwm](https://github.com/tslight/stumpwm/tree/main/modules) - A collection of StumpWM modules from Toby Slight
 - [weather](https://github.com/njkli/stumpwm-weather/blob/master/readme.org) - Displays weather in the modeline
 - [rofi](https://github.com/Junker/stumpwm-rofi) - StumpWM rofi integration
 - [dmenu](https://gitlab.com/sasanidas/stumpwm-dmenu) - StumpWM dmenu integration
