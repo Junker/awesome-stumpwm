@@ -48,6 +48,7 @@
 
 ## Configs
 
+- [Config from Junker](https://github.com/Junker/stumpwm-config)
 - [Config and instruction from Lucien Cartier-Tilet](https://config.phundrak.com/stumpwm.html)
 - [Config from Alex Kost](https://github.com/alezost/stumpwm-config)
 
@@ -55,3 +56,7 @@
 
 - [stumpish](https://manpages.ubuntu.com/manpages/trusty/man1/stumpish.1.html) - the StumpWM Interactive SHell (included in StumpWM)
 - [StumpWM IPC](https://github.com/szos/swmipc) - A simple IPC server for StumpWM
+
+## Useful Common Lisp libs
+
+- [cl-notify](https://github.com/Lautaro-Garcia/cl-notify) - Library to send notifications to your desktop through D-Bus
