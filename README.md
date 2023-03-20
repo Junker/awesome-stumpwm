@@ -41,6 +41,7 @@
 - [stumpd](https://github.com/Payphone/Stumpd) - Module for interacting with MPD 
 - [cmus](https://github.com/jdfight/stumpwm-cmus) - Module for interfacing with the cmus music player
 - [nuclear](https://github.com/Junker/stumpwm-nuclear) - Nuclear music player module
+- [pomo](https://github.com/Payphone/Pomo) - module for keeping track of Pomodoro sessions
 
 ## Themes
 
