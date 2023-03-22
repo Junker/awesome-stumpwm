@@ -27,6 +27,7 @@
 - [dmenu](https://gitlab.com/sasanidas/stumpwm-dmenu) - StumpWM dmenu integration
 - [pamixer](https://github.com/Junker/stumpwm-pamixer) - Pulseaudio volume and microphone control module
 - [kbdd](https://github.com/Junker/stumpwm-kbdd) - Per window XKB layout switcher module
+- [tomato](https://github.com/Junker/stumpwm-tomato) - Advanced Pomodoro timer module for StumpWM
 - [scratchpads](https://github.com/podiki/scratchpad) - Toggleable windows module
 - [acpi-backlight](https://github.com/Junker/stumpwm-acpi-backlight) - ACPI backlight control module
 - [window-switch](https://github.com/Junker/stumpwm-window-switch) - Windows switch module
