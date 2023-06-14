@@ -29,7 +29,9 @@
 - [kbdd](https://github.com/Junker/stumpwm-kbdd) - Per window XKB layout switcher module
 - [tomato](https://github.com/Junker/stumpwm-tomato) - Advanced Pomodoro timer module for StumpWM
 - [scratchpads](https://github.com/podiki/scratchpad) - Toggleable windows module
+- [xft-fix](https://github.com/kamysheblid/xft-fix) - stumpwm xft module fix for clearing cache
 - [acpi-backlight](https://github.com/Junker/stumpwm-acpi-backlight) - ACPI backlight control module
+- [auto-suspend](https://github.com/kamysheblid/stumpwm-autosuspend) - Module auto suspends the computer when the battery capacity is low.
 - [window-switch](https://github.com/Junker/stumpwm-window-switch) - Windows switch module
 - [udisks](https://github.com/lucashpandolfo/udisks) - Disk manager module
 - [screenshot-maim](https://github.com/Junker/stumpwm-screenshot-maim) - Screenshot module
