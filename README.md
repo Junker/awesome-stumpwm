@@ -45,6 +45,7 @@
 - [cmus](https://github.com/jdfight/stumpwm-cmus) - Module for interfacing with the cmus music player
 - [nuclear](https://github.com/Junker/stumpwm-nuclear) - Nuclear music player module
 - [pomo](https://github.com/Payphone/Pomo) - module for keeping track of Pomodoro sessions
+- [mullvad](https://codeberg.org/sasanidas/stumpwm-mullvad) - Mullvad VPN integration module
 
 ## Themes
 
