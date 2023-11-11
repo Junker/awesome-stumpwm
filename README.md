@@ -26,6 +26,7 @@
 - [rofi](https://github.com/Junker/stumpwm-rofi) - StumpWM rofi integration
 - [dmenu](https://codeberg.org/sasanidas/stumpwm-dmenu) - StumpWM dmenu integration
 - [pamixer](https://github.com/Junker/stumpwm-pamixer) - Pulseaudio volume and microphone control module
+- [wpctl](https://github.com/Junker/stumpwm-wpctl) - PipeWire volume and microphone control module
 - [kbdd](https://github.com/Junker/stumpwm-kbdd) - Per window XKB layout switcher module
 - [tomato](https://github.com/Junker/stumpwm-tomato) - Advanced Pomodoro timer module for StumpWM
 - [scratchpads](https://github.com/podiki/scratchpad) - Toggleable windows module
