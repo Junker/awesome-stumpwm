@@ -67,4 +67,5 @@
 
 ## Useful Common Lisp libs
 
+- [goose121/clx-truetype](https://github.com/goose121/clx-truetype) - Fork of clx-truetype with fixed memory leak
 - [cl-notify](https://github.com/Lautaro-Garcia/cl-notify) - Library to send notifications to your desktop through D-Bus
