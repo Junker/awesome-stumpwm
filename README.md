@@ -26,6 +26,7 @@
 - [rofi](https://github.com/Junker/stumpwm-rofi) - StumpWM rofi integration
 - [dmenu](https://codeberg.org/sasanidas/stumpwm-dmenu) - StumpWM dmenu integration
 - [battery](https://github.com/Junker/stumpwm-battery) - Battery information module for StumpWM
+- [bluetooth](https://github.com/Junker/stumpwm-bluetooth) - module for controlling Bluetooth devices
 - [pamixer](https://github.com/Junker/stumpwm-pamixer) - Pulseaudio volume and microphone control module
 - [wpctl](https://github.com/Junker/stumpwm-wpctl) - PipeWire volume and microphone control module
 - [kbdd](https://github.com/Junker/stumpwm-kbdd) - Per window XKB layout switcher module
