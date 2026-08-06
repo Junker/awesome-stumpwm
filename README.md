@@ -69,3 +69,8 @@
 
 - [goose121/clx-truetype](https://github.com/goose121/clx-truetype) - Fork of clx-truetype with fixed memory leak
 - [cl-notify](https://github.com/Lautaro-Garcia/cl-notify) - Library to send notifications to your desktop through D-Bus
+
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
