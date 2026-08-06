@@ -26,10 +26,12 @@
 - [rofi](https://github.com/Junker/stumpwm-rofi) - StumpWM rofi integration
 - [dmenu](https://codeberg.org/sasanidas/stumpwm-dmenu) - StumpWM dmenu integration
 - [battery](https://github.com/Junker/stumpwm-battery) - Battery information module for StumpWM
+- [bluetooth](https://github.com/Junker/stumpwm-bluetooth) - module for controlling Bluetooth devices
 - [pamixer](https://github.com/Junker/stumpwm-pamixer) - Pulseaudio volume and microphone control module
 - [wpctl](https://github.com/Junker/stumpwm-wpctl) - PipeWire volume and microphone control module
 - [kbdd](https://github.com/Junker/stumpwm-kbdd) - Per window XKB layout switcher module
 - [tomato](https://github.com/Junker/stumpwm-tomato) - Advanced Pomodoro timer module for StumpWM
+- [iwd](https://github.com/Junker/stumpwm-iwd) - module for iwd (iNet wireless daemon) 
 - [scratchpads](https://github.com/podiki/scratchpad) - Toggleable windows module
 - [xft-fix](https://github.com/kamysheblid/xft-fix) - stumpwm xft module fix for clearing cache
 - [acpi-backlight](https://github.com/Junker/stumpwm-acpi-backlight) - ACPI backlight control module
